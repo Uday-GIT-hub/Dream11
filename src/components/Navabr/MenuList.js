@@ -1,0 +1,22 @@
+export const MenuList = [
+    {
+        title:"Home",
+        url:"/"
+    },
+    {
+        title:"About",
+        url:"/about"
+    },
+    {
+        title:"News",
+        url:"/news"
+    },
+    {
+        title:"Contact",
+        url:"/contact"
+    },
+    {
+        title:"Free",
+        url:"/demo"
+    }
+]
